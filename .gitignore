@@ -109,3 +109,6 @@ dist
 .history
 #Generated
 build
+
+#just a garbage ignore
+.txt
