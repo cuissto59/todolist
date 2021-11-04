@@ -107,6 +107,5 @@ dist
 .idea 
 .vscode
 .history
-
 #Generated
 build
