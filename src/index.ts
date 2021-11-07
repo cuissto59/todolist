@@ -1,2 +1,2 @@
 import fs from 'fs';
-console.log('Yeah')
+console.log('Hello motherfucker 2')
