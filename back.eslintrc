@@ -4,7 +4,7 @@
     "plugins": ["@typescript-eslint"],
     "extends": ["eslint:recommended","plugin:@typescript-eslint/eslint-recommended","plugin:@typescript-eslint/recommended"],
     "rules":{
-        "@typescript-eslint/rule-name":"error",
+        "@typescript-eslint/rule-name":"",
         "quotes":["error","single"]
       }
 }
